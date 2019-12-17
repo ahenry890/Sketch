@@ -1,0 +1,31 @@
+
+
+#title{
+  font-family: 'Indie Flower', cursive;
+  font-size: 65px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+button{
+   background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.divider{
+    width: 30px;
+    height:auto;
+    display:inline-block;
+}
+
+div{
+  color: white;
+}
+
+button{
+  color: white;
+}
